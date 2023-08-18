@@ -1,6 +1,6 @@
 ⚡ Repository for Submission Dicoding - Belajar Pengembangan Machine Learning
 
-# Dicoding-AndroidExpert
+# Dicoding-Pengembangan Machine Learning
 Repository for Documentations [Dicoding - Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185/)
 
 ## Purpose
